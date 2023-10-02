@@ -1,0 +1,15 @@
+C:\Users\User\repos\Newton\HighRiskCafe\bin\Debug\net7.0\HighRiskCafe.exe
+C:\Users\User\repos\Newton\HighRiskCafe\bin\Debug\net7.0\HighRiskCafe.deps.json
+C:\Users\User\repos\Newton\HighRiskCafe\bin\Debug\net7.0\HighRiskCafe.runtimeconfig.json
+C:\Users\User\repos\Newton\HighRiskCafe\bin\Debug\net7.0\HighRiskCafe.dll
+C:\Users\User\repos\Newton\HighRiskCafe\bin\Debug\net7.0\HighRiskCafe.pdb
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.csproj.AssemblyReference.cache
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.AssemblyInfoInputs.cache
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.AssemblyInfo.cs
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.csproj.CoreCompileInputs.cache
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.dll
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\refint\HighRiskCafe.dll
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.pdb
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\HighRiskCafe.genruntimeconfig.cache
+C:\Users\User\repos\Newton\HighRiskCafe\obj\Debug\net7.0\ref\HighRiskCafe.dll
